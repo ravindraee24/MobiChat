@@ -26,6 +26,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="helloworldchat.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="model.py" />
   </ItemGroup>
   <ItemGroup>
